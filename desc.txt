@@ -1,0 +1,23 @@
+. - print ascii
+, - print number
+_ - go to memory slot
+s - set value
+@ - set value from ascii
++ - add to slot
+- - subtract from slot
+* - multiply slot
+/ - divide slot
+: - ascii input
+# - int input
+= - check mem equal
+! - check mem not equal
+> - check mem over
+< - check mem under
+i - if statement
+u - not if statement
+^ - goto back
+% - goto forward
+$ - label
+" - string
+; - print string
+? - string input
